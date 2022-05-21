@@ -65,7 +65,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "index.html",
+    value: "JAVA核心面试知识整理.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
